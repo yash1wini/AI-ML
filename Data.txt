@@ -4,3 +4,4 @@ adv programming
 gitam
 internship
 dyanahita
+python easy
